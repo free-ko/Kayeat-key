@@ -1,0 +1,19 @@
+{
+  "name": "Kayeat-ey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:free-ko/Kayeat-key.git",
+  "author": "Kay <duddnr654@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.192",
+    "@types/react": "^18.0.35",
+    "@types/react-dom": "^18.0.11",
+    "prettier": "^2.8.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
